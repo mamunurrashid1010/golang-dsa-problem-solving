@@ -16,6 +16,9 @@ My personal practice repository for Data Structures and Algorithms (DSA) and pro
 | 7 | [Sum of Odd Numbers (1 to N)](./7.one_to_n_odd_number_sum) | Calculate the sum of odd numbers from 1 to N |
 | 8 | [Multiplication Table](./8.multiplicaion_table) | Generate multiplication table for a given number |
 | 9 | [Prime Number Check](./9.prime_number) | Check if a given number is prime |
+| 10 | [Array Input and Sum](./10.array_input_and_sum) | Take array input from user and calculate the sum of all elements |
+| 11 | [Array Largest & Smallest Value](./11.array_largest_smallest_value_print) | Find and print the largest and smallest values in an array |
+| 12 | [Reverse Array](./12.reverse_array) | Reverse an array using two-pointer technique |
 
 
 ## How to Run
