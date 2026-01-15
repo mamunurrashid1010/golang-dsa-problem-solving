@@ -19,6 +19,9 @@ My personal practice repository for Data Structures and Algorithms (DSA) and pro
 | 10 | [Array Input and Sum](./10.array_input_and_sum) | Take array input from user and calculate the sum of all elements |
 | 11 | [Array Largest & Smallest Value](./11.array_largest_smallest_value_print) | Find and print the largest and smallest values in an array |
 | 12 | [Reverse Array](./12.reverse_array) | Reverse an array using two-pointer technique |
+| 13 | [Linear Search](./13.linear_search) | Search for a target element in an array using linear search |
+| 14 | [Binary Search](./14.binary_search) | Search for a target element in a sorted array using binary search |
+| 15 | [Linear Search Target Count](./15.linear_search_target_total_found_count) | Count occurrences of a target value in an array |
 
 
 ## How to Run
