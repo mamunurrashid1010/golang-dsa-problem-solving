@@ -22,6 +22,9 @@ My personal practice repository for Data Structures and Algorithms (DSA) and pro
 | 13 | [Linear Search](./13.linear_search) | Search for a target element in an array using linear search |
 | 14 | [Binary Search](./14.binary_search) | Search for a target element in a sorted array using binary search |
 | 15 | [Linear Search Target Count](./15.linear_search_target_total_found_count) | Count occurrences of a target value in an array |
+| 16 | [Bubble Sort](./16.bubble_sort) | Sort an array using bubble sort algorithm |
+| 17 | [Selection Sort](./17.selection_sort) | Sort an array using selection sort algorithm |
+| 18 | [Check Array Sorted](./18.check_array_sorted_or_not) | Check if an array is sorted in ascending order |
 
 
 ## How to Run
