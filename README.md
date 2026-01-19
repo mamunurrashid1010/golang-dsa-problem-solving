@@ -25,6 +25,7 @@ My personal practice repository for Data Structures and Algorithms (DSA) and pro
 | 16 | [Bubble Sort](./16.bubble_sort) | Sort an array using bubble sort algorithm |
 | 17 | [Selection Sort](./17.selection_sort) | Sort an array using selection sort algorithm |
 | 18 | [Check Array Sorted](./18.check_array_sorted_or_not) | Check if an array is sorted in ascending order |
+| 19 | [Merge Sort](./19.merge_sort) | Sort an array using merge sort algorithm (divide and conquer) |
 
 
 ## How to Run
