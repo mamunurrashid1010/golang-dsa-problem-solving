@@ -27,6 +27,8 @@ My personal practice repository for Data Structures and Algorithms (DSA) and pro
 | 18 | [Check Array Sorted](./18.check_array_sorted_or_not) | Check if an array is sorted in ascending order |
 | 19 | [Merge Sort](./19.merge_sort) | Sort an array using merge sort algorithm (divide and conquer) |
 | 20 | [Quick Sort](./20.quick_sort) | Sort an array using quick sort algorithm |
+| 21 | [Recursion Factorial](./21.recursion_factorial) | Calculate factorial of a number using recursion |
+| 22 | [Recursion Print 1 to N](./22.recursion_print_one_to_n_number) | Print numbers from 1 to N using recursion |
 
 
 ## How to Run
