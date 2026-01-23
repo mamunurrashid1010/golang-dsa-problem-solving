@@ -29,6 +29,8 @@ My personal practice repository for Data Structures and Algorithms (DSA) and pro
 | 20 | [Quick Sort](./20.quick_sort) | Sort an array using quick sort algorithm |
 | 21 | [Recursion Factorial](./21.recursion_factorial) | Calculate factorial of a number using recursion |
 | 22 | [Recursion Print 1 to N](./22.recursion_print_one_to_n_number) | Print numbers from 1 to N using recursion |
+| 23 | [Stack](./23.stack) | Stack implementation with Push, Pop, Peek, and isEmpty operations |
+| 24 | [Stack User Operation](./24.stack_user_operation) | Menu-driven stack program with interactive user operations |
 
 
 ## How to Run
