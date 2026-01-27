@@ -31,6 +31,8 @@ My personal practice repository for Data Structures and Algorithms (DSA) and pro
 | 22 | [Recursion Print 1 to N](./22.recursion_print_one_to_n_number) | Print numbers from 1 to N using recursion |
 | 23 | [Stack](./23.stack) | Stack implementation with Push, Pop, Peek, and isEmpty operations |
 | 24 | [Stack User Operation](./24.stack_user_operation) | Menu-driven stack program with interactive user operations |
+| 25 | [Queue](./25.queue) | Queue implementation with Enqueue, Dequeue, Front, and IsEmpty operations |
+| 26 | [Linked List](./26.linked_list) | Singly linked list implementation with InsertAtBeginning and InsertAtEnd operations |
 
 
 ## How to Run
