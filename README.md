@@ -33,6 +33,7 @@ My personal practice repository for Data Structures and Algorithms (DSA) and pro
 | 24 | [Stack User Operation](./24.stack_user_operation) | Menu-driven stack program with interactive user operations |
 | 25 | [Queue](./25.queue) | Queue implementation with Enqueue, Dequeue, Front, and IsEmpty operations |
 | 26 | [Linked List](./26.linked_list) | Singly linked list implementation with InsertAtBeginning and InsertAtEnd operations |
+| 27 | [Reverse Linked List](./27.reverse_linked_list) | Reverse a singly linked list using iterative approach with three pointers |
 
 
 ## How to Run
