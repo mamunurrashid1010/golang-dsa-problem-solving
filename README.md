@@ -35,6 +35,7 @@ My personal practice repository for Data Structures and Algorithms (DSA) and pro
 | 26 | [Linked List](./26.linked_list) | Singly linked list implementation with InsertAtBeginning and InsertAtEnd operations |
 | 27 | [Reverse Linked List](./27.reverse_linked_list) | Reverse a singly linked list using iterative approach with three pointers |
 | 28 | [Circular Linked List](./28.circular_linked_list) | Circular linked list implementation |
+| 29 | [Doubly Linked List](./29.doubly_linked_list) | Doubly linked list implementation with InsertAtBeginning, InsertAtEnd, PrintForward, and PrintBackward operations |
 
 
 ## How to Run
