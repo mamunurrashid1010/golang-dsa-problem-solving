@@ -37,7 +37,8 @@ My personal practice repository for Data Structures and Algorithms (DSA) and pro
 | 28 | [Circular Linked List](./28.circular_linked_list) | Circular linked list implementation |
 | 29 | [Doubly Linked List](./29.doubly_linked_list) | Doubly linked list implementation with InsertAtBeginning, InsertAtEnd, PrintForward, and PrintBackward operations |
 | 30 | [Circular Queue](./30.circular_queue) | Circular queue implementation with Enqueue, Dequeue, IsFull, IsEmpty, and PrintQueue operations |
-
+| 31 | [Binary Tree Basic](./31.binary_tree_basic) | Basic binary tree structure with Node definition and tree creation |
+| 32 | [Binary Tree Traversal](./32.binary_tree_traversal) | Binary tree DFS traversal with Inorder, Preorder, and Postorder methods |
 
 ## How to Run
 
