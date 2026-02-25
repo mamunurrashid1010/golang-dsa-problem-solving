@@ -40,6 +40,7 @@ My personal practice repository for Data Structures and Algorithms (DSA) and pro
 | 31 | [Binary Tree Basic](./31.binary_tree_basic) | Basic binary tree structure with Node definition and tree creation |
 | 32 | [Binary Tree Traversal](./32.binary_tree_traversal) | Binary tree DFS traversal with Inorder, Preorder, and Postorder methods |
 | 33 | [Binary Search Tree](./33.binary_search_tree) | Binary Search Tree implementation with Insert, Search, Inorder, Min, Max, and CountNodes operations |
+| 34 | [BST Node Deletion](./34.binary_search_tree_node_deletion) | BST node deletion handling leaf, one-child, and two-children cases with GetHeight operation |
 
 ## How to Run
 
